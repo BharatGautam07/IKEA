@@ -17,4 +17,4 @@ This is a learning project focused on data cleaning, customer analysis, and dash
 This project helped me gain practical experience in data cleaning, customer segmentation, and data visualization.
 
 ## Credit
-Project inspiration and guidance: Manis Goel [https://www.linkedin.com/in/mansigoelofficial/].
+Project inspiration and guidance: Mansi Goel [https://www.linkedin.com/in/mansigoelofficial/].
